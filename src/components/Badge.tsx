@@ -67,7 +67,7 @@ export const Badge = (props: Props) => {
           color: props.poweredByTextColor ?? defaultTextColor,
         }}
       >
-        <span> Leon van Zyl</span>
+        <span> Trending Neurons</span>
       </a>
     </span>
   );
